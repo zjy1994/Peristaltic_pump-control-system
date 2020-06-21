@@ -3,7 +3,7 @@
 
 ### 蠕动泵系统，可惜没有好的图片
 
-![](E:\GitHub\Peristaltic_pump-control-system\图片\蠕动泵.jpg)
+![](/图片/蠕动泵.jpg)
 
 
 
@@ -43,11 +43,11 @@
 
 + 登录界面：
 
-  ![](E:\GitHub\Peristaltic_pump-control-system\图片\上位机-登录界面.png)
+  ![](/图片/上位机-登录界面.png)
 
 + 主界面：
 
-  ![](E:\GitHub\Peristaltic_pump-control-system\图片\上位机-主界面.png)
+  ![](/图片/上位机-主界面.png)
 
   
 
