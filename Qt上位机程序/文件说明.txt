@@ -1,0 +1,6 @@
+Pump_PCsoftware         : 实现了控制蠕动泵的基本功能
+Pump_PCsoftware_ver2.0  : 几乎实现了所有功能
+Pump_PCsoftware_ver3.0  : 进行各个界面的美化
+Pump_PCsoftware_ver4.0  : 功能进一步完善
+Pump_PCsoftware_ver5.0  : 添加了数据保存到文件的功能，此时系统的功能基本上完整了
+Pump_PCsoftware_ver6.0  : 做出了一些小改动，也是最终完成的版本，也是该版本完成的程序发布
