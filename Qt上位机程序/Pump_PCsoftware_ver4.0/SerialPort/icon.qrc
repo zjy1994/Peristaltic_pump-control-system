@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ai.ico</file>
+        <file>Instrument.ico</file>
+    </qresource>
+</RCC>
